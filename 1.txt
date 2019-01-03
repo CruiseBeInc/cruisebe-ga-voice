@@ -1,0 +1,89 @@
+YbxtUj35Ytn
+
+
+Address: 10.3.61.71 Port: 5914
+
+169.54.164.226
+
+Username: root Password: YbxtUj35Ytn 
+
+NEW PASSWORD:NrKd4qFc
+
+
+mysqldump -uroot -pwearethebest5129  cruisebe> /var/backupmysql/cruisebe/backup.sql
+
+mysqldump -uroot -pwearethebest5129  cruisebe > /mnt/var/backups/backup.sql
+
+https://en.wikipedia.org/w/api.php?action=query&prop=coordinates|extracts&format=json&titles=USS_Accokeek_(ATA-181)
+https://en.wikipedia.org/w/api.php?action=query&prop=coordinates|extracts&format=json&titles=HMAS_Adelaide_(FFG_01)
+
+
+2) I have a protable storage attached to one device. Can I attached this protabl storage to the another device?
+
+
+
+[linuxrescue -- **RESCUE**]# mount /dev/xvda2 /mnt
+[linuxrescue -- **RESCUE**]# ls /mnt/home/
+admin cbbot cbsolutions cruisebe
+
+mount /dev/xvde1 /home/cruisebe/web/cruisebe.com/public_html/sites/default/files/portofcallobjects
+           
+umount /home/cruisebe/web/cruisebe.com/public_html/sites/default/files/portofcallobjects
+mount /dev/xvdc1 /backup
+
+
+ls /mnt/home/cruisebe/web/cruisebe.com/public_html/sites/default/files/portofcallobject
+
+
+
+  
+
+169.54.164.226\mnt\home\cruisebe\web\cruisebe.com\public_html\sites\default\files\portofcallobject\
+
+
+cp -Rf mnt/home home
+
+
+cp -r /mnt/home/cbsolutions/web /home/cbsolutions
+cp -r /mnt/home/cbsolutions/conf /home/cbsolutions
+cp -r /mnt/home/cbsolutions/mail /home/cbsolutions
+cp -r /mnt/home/cbsolutions/tmp /home/cbsolutions
+
+cp -r /mnt/home/cruisebe/web /home/cruisebe
+cp -r /mnt/home/cruisebe/conf /home/cruisebe
+cp -r /mnt/home/cruisebe/mail /home/cruisebe
+cp -r /mnt/home/cruisebe/tmp /home/cruisebe
+
+cp -r /mnt/var/backups /var
+cp -Rf /mnt/var/lib /var
+
+
+-Rf
+
+cp -r /mnt/home/cruisebe/web/cruisebe.com/public_html/sites/default/deckplan /home/cruisebe/web/cruisebe.com/public_html/sites/default
+
+cp -r /mnt/home/cruisebe/web/cruisebe.com/public_html/sites/default/files/styles /home/cruisebe/web/cruisebe.com/public_html/sites/default/files
+
+
+1) ALTER TABLE tripplanner_user DISCARD TABLESPACE;
+This removed connections between new .frm file and .idb file. Also removed .idb file in the folder.
+
+2) Загрузить .idb на сервер
+ALTER TABLE tripplanner_user IMPORT TABLESPACE;
+ALTER TABLE tripplanner_user IMPORT TABLESPACE;SHOW WARNINGS;
+
+
+
+
+
+
+
+cp -r /mnt/home/cbbot/web/cruisebechatbot.com/public_html /home/cbbot/web/cruisebechatbot.com
+
+cp -r /home/ashumaiev/web/alexshumaiev1.com/public_html/includes /home/ashumaiev/web/alexshumaiev.com/public_html
+
+
+
+
+
+
